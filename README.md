@@ -63,3 +63,6 @@ Windows Registry Editor Version 5.00
   6e,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,46,00,69,00,6c,00,65,\
   00,73,00,44,00,69,00,72,00,25,00,00,00
 ```
+
+## Google Chrome ポリシーテンプレート
+[管理対象パソコンに Chrome ブラウザのポリシーを設定する](https://support.google.com/chrome/a/answer/187202?hl=ja)
