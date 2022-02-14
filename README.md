@@ -66,3 +66,5 @@ Windows Registry Editor Version 5.00
 
 ## Google Chrome ポリシーテンプレート
 [管理対象パソコンに Chrome ブラウザのポリシーを設定する](https://support.google.com/chrome/a/answer/187202?hl=ja)
+
+https://dl.google.com/dl/edgedl/chrome/policy/policy_templates.zip
