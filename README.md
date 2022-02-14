@@ -1,4 +1,7 @@
 # group-policies-2022-02-14
+
+## Microsoft Edge 起動不可
+
 ```
 Windows Registry Editor Version 5.00
 
