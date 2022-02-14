@@ -1,6 +1,7 @@
 # group-policies-2022-02-14
 
 ## Microsoft Edge 起動不可
+( 参考 : [Windows10 Edgeを起動できないようにする方法](https://mitomoha.hatenablog.com/entry/2019/01/26/012513?fbclid=IwAR37MfiCShnBI1rdy_odlg9TWk4J0JF1cFHoNp2QJL6wqqZMWTaAVM6V7c4) )
 
 ```
 Windows Registry Editor Version 5.00
